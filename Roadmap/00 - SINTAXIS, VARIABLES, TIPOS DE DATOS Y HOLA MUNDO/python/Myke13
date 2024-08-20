@@ -1,0 +1,27 @@
+#https://www.python.org/
+
+#no usar mayúsculas en las variables
+
+#Esto es un comentario en una línea
+
+'''
+Esto es un
+comentario en
+varias líneas
+'''
+
+"""
+Esto es un 
+comentario en
+varias líneas
+"""
+my_primera_variable = "Mi variable"
+my_primera_variable = "Nuevo Valor de Mi Variable"
+
+my_int = 1        #Nuemeros enteros
+my_float = 1.5    #Numeros Decimales
+my_bool = True
+my_bool = False
+my_string = "Para cadena de texto"
+
+print (" Hola, Mi nombre es Myke y estoy aprendiendo Python ")
